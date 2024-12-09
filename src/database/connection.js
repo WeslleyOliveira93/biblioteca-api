@@ -1,6 +1,6 @@
 import { Sequelize } from "sequelize";
 
-const db =process.env.DB_NOME ;
+const db =process.env.DB_NAME ;
 const user =process.env.DB_USER ;
 const pass =process.env.DB_PASS ;
 const host =process.env.DB_HOST ;
